@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+lifelines
+scikit-survival
+matplotlib
+seaborn
+openpyxl
+pyreadr
+pyarrow
+jupyter

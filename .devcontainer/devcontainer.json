@@ -1,0 +1,17 @@
+{
+    "name": "DUAC Statistical Analysis",
+    "build": {
+        "dockerfile": "../Dockerfile",
+        "context": ".."
+    },
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}
